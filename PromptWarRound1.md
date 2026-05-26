@@ -3,9 +3,13 @@
 
 ## The Setup
 
-You have exactly **15 minutes**, your wits, and total access to any AI model or platform available to you. 
+You have exactly **15 minutes**, your wits,
+and total access to any AI model or platform available to you. 
 
-The goal of this round is simple but brutal: **Depth and robustness beat guesswork.** You are competing individually. An AI Agent will act as our automated gatekeeper, parsing your submission through the Power App the second the buzzer sounds. 
+The goal of this round is simple but brutal: **Depth and robustness beat guesswork.**
+You are competing individually.
+An AI Agent will act as our automated gatekeeper,
+parsing your submission through the Power App the second the buzzer sounds. 
 
 Only the **Top 8 individual prompt engineering masters** will survive this sprint and advance to the final Round 2. 
 
