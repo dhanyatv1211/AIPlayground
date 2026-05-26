@@ -44,7 +44,7 @@ Participants will be provided a raw, badly formatted CSV sample containing anoma
 * Dates written as `2026-05-26`, `26/05/05`, and `May 14th`
 * Mixed currencies (`$5000`, `5000 INR`, `50k`)
 * Missing fields, unmapped regional names, and broken rows.
-
+[Sample File](https://github.com/dhanyatv1211/AIPlayground/blob/8efacdd53c46904fe7d0193243b12284ecebbcc9/superstore%202.csv)
 ---
 
 ## The Judging Matrix
