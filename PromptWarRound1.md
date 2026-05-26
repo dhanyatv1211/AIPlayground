@@ -1,5 +1,3 @@
-Here is the exact, raw Markdown code. You can copy the block below and paste it directly into a `.md` file on GitHub. It uses standard GitHub-Flavored Markdown (GFM) to ensure all headings, formatting, bold text, and bullet styles render beautifully.
-
 ```markdown
 # Prompt War: Round 1 (Messy to Meaning)
 
