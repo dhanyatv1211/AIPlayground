@@ -1,4 +1,3 @@
-```markdown
 # Prompt War: Round 1 (Messy to Meaning)
 
 ## The Setup
