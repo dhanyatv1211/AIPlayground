@@ -18,7 +18,7 @@ Only the **Top 8 individual prompt engineering masters** will survive this sprin
 
 It is 4:45 PM on a Friday. Your company’s VP of Sales just sprinted to your desk, visibly sweating. The board of directors called an emergency meeting for Monday morning to review regional revenue performance. 
 
-The VP handed you a flash drive containing a raw dataset named **superstore 2.csv**. 
+The VP handed you a flash drive containing a raw dataset named [**superstore 2.csv**](https://github.com/dhanyatv1211/AIPlayground/blob/9c95b4db49095a82c0fee85ab0284e01236314ab/superstore%202.csv). 
 * "The data layout is completely inconsistent," the VP stammers. 
 * "The columns are separated with dots instead of standard spaces—like `Order.Date`, `Customer.ID`, and `Product.Name`. To make things weirder, there are random localized language tracking columns like `记录数` mixed right into the operational rows. Plus, the metrics cross international lines with complex decimal fractions across `Sales`, `Profit`, and `Shipping.Cost` values."
 
