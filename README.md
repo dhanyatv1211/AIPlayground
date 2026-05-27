@@ -1,2 +1,2 @@
 # AIPlayground
-Public Repo for sharing game rules for ACN Bengaluru AI Club  Prompt War Event
+Public Repo for sharing game rules for ACN Bengaluru AI Club  Prompt War Event Round 1
