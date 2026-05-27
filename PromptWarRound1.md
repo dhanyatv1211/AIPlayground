@@ -41,11 +41,12 @@ The VP needs actionable, clear, structured strategic insights on their desk in 1
 
 ## The Sample Data (The Mess)
 
-Participants will be provided a raw, badly formatted CSV sample containing anomalies like:
-* Dates written as `2026-05-26`, `26/05/05`, and `May 14th`
-* Mixed currencies (`$5000`, `5000 INR`, `50k`)
-* Missing fields, unmapped regional names, and broken rows.
-[Sample File](https://github.com/dhanyatv1211/AIPlayground/blob/8efacdd53c46904fe7d0193243b12284ecebbcc9/superstore%202.csv)
+Contestants will be provided the raw file [**superstore 2.csv**](https://github.com/dhanyatv1211/AIPlayground/blob/8efacdd53c46904fe7d0193243b12284ecebbcc9/superstore%202.csv), which contains real structural anomalies and data formatting noise, including:
+* Non-standard dot-notation headers: `Order.Date`, `Ship.Mode`, `Customer.Name`, `Sub.Category`, etc.
+* Foreign metadata tracking columns: Columns like `记录数` nested inside standard rows.
+* Multi-layered geographic hierarchies: Mixed granular rows balancing fields like `Market`, `Market2`, `Region`, `Country`, `State`, and `City`.
+* Complex floating-point metrics across financial scales: `Sales`, `Profit`, and `Shipping.Cost` entries with deep decimal points and negative values.
+
 ---
 
 ## The Judging Matrix
