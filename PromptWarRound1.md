@@ -18,11 +18,12 @@ Only the **Top 8 individual prompt engineering masters** will survive this sprin
 
 It is 4:45 PM on a Friday. Your company’s VP of Sales just sprinted to your desk, visibly sweating. The board of directors called an emergency meeting for Monday morning to review regional revenue performance. 
 
-The VP handed you a flash drive containing a single, completely corrupted, chaotic CSV file. 
-* "The regional managers didn't use the CRM system," the VP stammers. 
-* "They copy-pasted raw spreadsheets. The dates are in three different formats, currency symbols are mixed up, column headers change halfway down the file, and some entries look like they were typed by an angry toddler."
+The VP handed you a flash drive containing a raw dataset named **superstore 2.csv**. 
+* "The data layout is completely inconsistent," the VP stammers. 
+* "The columns are separated with dots instead of standard spaces—like `Order.Date`, `Customer.ID`, and `Product.Name`. To make things weirder, there are random localized language tracking columns like `记录数` mixed right into the operational rows. Plus, the metrics cross international lines with complex decimal fractions across `Sales`, `Profit`, and `Shipping.Cost` values."
 
-The VP needs actionable, clear, structured strategic insights on their desk in 15 minutes. You can't fix this file row-by-row. You need to build a prompting framework so resilient that it can ingest this digital toxic waste and spit out pure, board-ready gold.
+The VP needs actionable, clear, structured strategic insights on their desk in 15 minutes. You can't fix thousands of rows by hand. You need to build a prompting framework so resilient that it can ingest this messy structural format and spit out pure, board-ready gold.
+
 
 ---
 
